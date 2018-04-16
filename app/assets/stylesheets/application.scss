@@ -1,29 +1,29 @@
 @import "bootstrap";
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');  
-  
-.box { 
-  width: 500px; 
-  margin: 150px auto; 
-  padding: 20px; 
-  background: blue; 
-  background-color: #8C9091; 
-  text-align: center; 
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+.box {
+  width: 500px;
+  margin: 150px auto;
+  padding: 20px;
+  background: blue;
+  background-color: #8C9091;
+  text-align: center;
   border-radius: 60px;
   background-color: rgba(0,0,0,0.6)
 }
 
 body {
-background-image: image-url("nasa.jpg");
+background-image: image-url("chicago1.jpg");
 background-size: cover;
 background-position: center;
 background-attachment: fixed;
 line-height: 1.5;
-color: white;  
+color: white;
 }
 
 p {
   font-family: 'Josefin', Sans;
   font-weight: 200;
   font-size: 14px;
-    
+
 }
